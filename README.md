@@ -1,5 +1,6 @@
 ### Hi there 👋😁
 
+- 🥳 I am studying Actuarial Science and Data Science at the University of the Americas, Puebla.
 - 🌱 I’m currently learning how to program on python and rstudio.
 - 😬 I’m looking for help, mostly with my homework. Haha, just kidding—no, I'm not kidding.
 - 💬 Ask me about my projects, but in Fortnite terms.
