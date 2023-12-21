@@ -7,4 +7,4 @@
 - 🐧 Pronouns: He/Him
 - 🌮 Fun fact: I’m kinda hungry, thinking about tacos de asada.
 
-- ![MuaKissGIF](https://github.com/heritaco/heritaco/assets/154515410/fac44587-c456-4564-8866-3daae7317e52)
+![MuaKissGIF](https://github.com/heritaco/heritaco/assets/154515410/fac44587-c456-4564-8866-3daae7317e52)
