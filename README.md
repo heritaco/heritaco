@@ -8,4 +8,6 @@
 - 🐧 Pronouns: He/Him
 - 🌮 Fun fact: I don´t know how to play Fortnite.
 
+- En https://replit.com/@HeriEspino guardé lo que aprendí a hacer en algoritmos y progra
+
 ![MuaKissGIF](https://github.com/heritaco/heritaco/assets/154515410/fac44587-c456-4564-8866-3daae7317e52)
