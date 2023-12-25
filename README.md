@@ -1,7 +1,7 @@
 ### Hi there 👋😁
 
 - 🥳 I am studying Actuarial Science and Data Science at the University of the Americas Puebla.
-- 🌱 I’m currently learning       and        .
+- 🌱 I’m currently learning "________" and "______".
 - 😬 I’m looking for help, mostly with my homework. Haha, just kidding, not kidding.
 - 💬 Ask me about my projects, in Fortnite terms, please.
 - 📫 You can email me to heriberto_espino@outlook.com
