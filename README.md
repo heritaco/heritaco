@@ -2,3 +2,4 @@ I am studying Actuarial Science and Data Science at the Universidad de las Amér
 
 AMO $\LaTeX$ Y GITHUB Y GARUDA LINUX!
  
+(odio el pantallazo azul de windows)
