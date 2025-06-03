@@ -8,3 +8,4 @@ AMO $\LaTeX$ Y GITHUB Y GARUDA LINUX!
 
 
 a🫶😭
+q
