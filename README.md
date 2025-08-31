@@ -6,6 +6,4 @@ EN UN RATO ACOMODO TODO! LO SIENTO!
 
 
 
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d32bb59d-66c3-46f4-a2e3-c31b0e890e5e" />
-
+![demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y1M3dkNWl2OXBpdzluc2tkazEzaXMyMDdleGY0MXBsYjV3eXI4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFIoWBxZp2EKM38IO3/giphy.gif)
