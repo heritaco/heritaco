@@ -1,4 +1,4 @@
-doucmnw
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -14,8 +14,6 @@ doucmnw
     alt="Top Langs" height="110">
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 <p align="center">
